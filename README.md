@@ -7,7 +7,7 @@
 Com 2 anos de existência, a Yacal se firma como uma empresa inclusiva e de qualidade, conduzida por princípios fundamentais. Buscamos sempre atender a todas as necessidades, sendo referência em praticidade, utilidade, diversão e inovação. Esperamos transmitir a identidade e os objetivos da Yacal.
 
 <h2 align="center">🚀 Missão</h2>
-<p align="center">A missão da Yacal é simplificar o dia a dia das pessoas por meio de ferramentas práticas e inovadoras. Oferecemos um conversor de moedas intuitivo e um divertido jogo da velha, proporcionando soluções que unem funcionalidade e entretenimento.</p>
+<p align="center">A missão da Yacal é simplificar o dia a dia das pessoas por meio de ferramentas práticas e inovadoras. Oferecemos um conversor de temperatura intuitivo e um divertido jogo da velha, proporcionando soluções que unem funcionalidade e entretenimento.</p>
 
 <h2 align="center">🌟 Valores</h2>
 <p align="center">
@@ -18,4 +18,4 @@ Com 2 anos de existência, a Yacal se firma como uma empresa inclusiva e de qual
 </p>
 
 <h2 align="center">👁️ Visão</h2>
-<p align="center">Ser a referência em soluções digitais acessíveis e interativas, promovendo a educação financeira e o entretenimento saudável para todos.</p>
+<p align="center">Ser a referência em soluções digitais acessíveis e interativas, promovendo informação sobre temperatura e o entretenimento saudável para todos.</p>
