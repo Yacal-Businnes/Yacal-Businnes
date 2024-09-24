@@ -19,3 +19,24 @@ Com 2 anos de existência, a Yacal se firma como uma empresa inclusiva e de qual
 
 <h2 align="center">👁️ Visão</h2>
 <p align="center">Ser a referência em soluções digitais acessíveis e interativas, promovendo informação sobre temperatura e o entretenimento saudável para todos.</p>
+
+<h2 align = "">administradors:</h2>
+
+<br>
+<a href = "https://github.com/glaivehBR">Glaive Helles</a>
+<div>
+ <img height="200" src="https://avatars.githubusercontent.com/u/125269667?v=4"/>
+</div>
+    <h3>encarregado de criar conversor e diagrama UML.</h3>
+<br>
+<a href = "https://github.com/luizamtro">Ana Luíza</a>
+<div>
+ <img height="200" src="https://avatars.githubusercontent.com/u/159566275?v=4"/>
+</div>
+    <h3>encarregada de criar a empresa, a tela de login, menu principal e ajudar no github.</h3>
+<br>
+<a href = "https://github.com/CaioDavid01">Caio David</a>
+<div>
+ <img height="200" src="https://avatars.githubusercontent.com/u/161221118?v=4"/>
+</div>
+    <h3>encarregado de criar o jogo da velha.</h3>
