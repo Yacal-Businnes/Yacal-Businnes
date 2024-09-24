@@ -40,3 +40,9 @@ Com 2 anos de existência, a Yacal se firma como uma empresa inclusiva e de qual
  <img height="200" src="https://avatars.githubusercontent.com/u/161221118?v=4"/>
 </div>
     <h3>encarregado de criar o jogo da velha.</h3>
+    <br>
+<a href = "https://github.com/Leon-r9">Emanuel Léon</a>
+<div>
+ <img height="200" src="https://avatars.githubusercontent.com/u/159721905?v=4"/>
+</div>
+    <h3>encarregado de criar os slides, github e ajudar na tela de login e menu principal.</h3>
